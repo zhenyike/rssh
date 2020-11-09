@@ -25,14 +25,14 @@ cargo build --release --target=x86_64-unknown-linux-musl
 添加用户密码：rssh -c ip user password  
 ![添加用户密码](https://images.gitee.com/uploads/images/2020/1104/114252_2b0cb2d9_8136516.png "屏幕截图.png")
 
-登录到远程服务器: rssh ip [user], user 默认为 ampmon, ip 支持模糊匹配  
+登录到远程服务器: rssh ip [user], user 默认为 root, ip 支持模糊匹配  
 ![登录](https://images.gitee.com/uploads/images/2020/1104/114421_5ea17744_8136516.png "屏幕截图.png")
 
 远程执行命令：rssh -r ip user cmd  
 ![远程执行命令](https://images.gitee.com/uploads/images/2020/1104/114621_7388983a_8136516.png "屏幕截图.png")
 
 不带任何参数可以查看说明  
-![说明](https://images.gitee.com/uploads/images/2020/1104/114458_3d095664_8136516.png "屏幕截图.png")
+![说明](https://images.gitee.com/uploads/images/2020/1109/101918_edf76e5e_8136516.png "屏幕截图.png")
 
 #### 参与贡献
 
