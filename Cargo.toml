@@ -1,0 +1,15 @@
+[package]
+name = "rssh"
+version = "0.1.0"
+authors = ["zhenyike <1509180493@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libc = "0.2.65"
+rustc-serialize = "0.3.24"
+rand = "0.7.2"
+rpassword = "4.0.1"
+base64 = "0.12.3"
+rust-crypto = "^0.2"
