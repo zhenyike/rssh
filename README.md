@@ -15,7 +15,7 @@ make && make install
 
 cargo build --release --target=x86_64-unknown-linux-musl  
 
-复制 target/x86_64-unknown-linux-musl/release 文件到 /usr/local/bin 目录  
+复制 target/x86_64-unknown-linux-musl/release/rssh 文件到 /usr/local/bin 目录  
 
 #### 使用说明
 
