@@ -4,10 +4,10 @@
 rssh是集密码管理、远程登录、远程执行命令于一体的工具。
 
 #### 软件架构
-参考sshpass源码，单可执行文件，运行时不依赖任务库
+参考sshpass源码，单可执行文件，运行时不依赖任何库
 
 #### 安装教程
-git clone https://gitee.com/zhenyike/rssh.git
+git clone https://github.com/zhenyike/rssh.git
 
 clib 仅编译时需要，部署环境不需要  
 cd rssh/clib  
